@@ -1,0 +1,12 @@
+{
+  "upstream_repository": "https://github.com/herdrdev/herdr",
+  "upstream_tag": "v0.9.3",
+  "upstream_commit": "7b116c05bfda646af39d2524c54e70c751f57ee8",
+  "audit_date": "2026-10-11",
+  "audit_method": "Read each target file from the official GitHub tag using the GitHub connector and compare exact quoted UTF-8 English literals before embedded test modules.",
+  "source_files_with_translations": 13,
+  "translation_keys_verified": 209,
+  "matched_english_literal_occurrences": 228,
+  "missing_translation_keys": 0,
+  "caveat": "This is a selected-string match audit, not a complete TUI localization coverage calculation nor a compilation result."
+}
